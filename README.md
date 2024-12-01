@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Nguyen</h1>
-<h3 align="center">A passionate website developer from Vietnam</h3>
+<h3 align="center">A passionate website developer from VietNam</h3>
 
 <img align="right" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b95274kja9t3rw58iv9yoo1ea7vsa76illsr3gaa2vpg&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phannguyenvn101&label=Profile%20views&color=0e75b6&style=flat" alt="phannguyenvn101" /> </p>
