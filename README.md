@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Phan Nguyen</h1>
 <h3 align="center">A passionate website developer from Vietnam</h3>
 
+<img align="right" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b95274kja9t3rw58iv9yoo1ea7vsa76illsr3gaa2vpg&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phannguyenvn101&label=Profile%20views&color=0e75b6&style=flat" alt="phannguyenvn101" /> </p>
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **Asp.NET, MEARN**
 
 - 📫 How to reach me **phannguyensaigon.vn@gmail.com**
 
@@ -9,6 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/phan nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phan nguyễn" height="30" width="40" /></a>
+<a href="https://discord.gg/phannguyen_50768_96345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phannguyen_50768_96345" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
